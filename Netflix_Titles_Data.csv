@@ -1,0 +1,1001 @@
+Show_ID,Type,Title,Director,Country,Release_Year,Rating,Duration,Genre
+S1000,Movie,Title_0,Director C,India,2013,TV-14,141,Horror
+S1001,TV Show,Title_1,Unknown,South Korea,2021,TV-14,125,Horror
+S1002,TV Show,Title_2,Director B,Spain,2010,TV-14,136,Dramas
+S1003,Movie,Title_3,Unknown,Spain,2019,TV-PG,104,Horror
+S1004,Movie,Title_4,Unknown,India,2016,TV-PG,177,Documentaries
+S1005,Movie,Title_5,Director C,United States,2014,PG-13,138,Horror
+S1006,Movie,Title_6,Unknown,South Korea,2014,TV-MA,79,Dramas
+S1007,TV Show,Title_7,Director C,Spain,2010,PG-13,123,International Movies
+S1008,Movie,Title_8,Director A,India,2025,TV-MA,152,Horror
+S1009,TV Show,Title_9,Director A,Spain,2023,TV-14,165,Comedies
+S1010,Movie,Title_10,Director C,South Korea,2019,TV-MA,152,Documentaries
+S1011,TV Show,Title_11,Director A,South Korea,2020,PG-13,126,Documentaries
+S1012,TV Show,Title_12,Director B,United Kingdom,2015,PG-13,142,Comedies
+S1013,Movie,Title_13,Unknown,India,2023,TV-MA,62,Comedies
+S1014,Movie,Title_14,Director B,South Korea,2018,TV-PG,113,Horror
+S1015,Movie,Title_15,Unknown,United Kingdom,2018,TV-14,137,Comedies
+S1016,Movie,Title_16,Director A,United Kingdom,2017,TV-14,123,International Movies
+S1017,Movie,Title_17,Director B,Spain,2014,PG-13,99,Dramas
+S1018,Movie,Title_18,Director A,Spain,2010,TV-PG,118,Comedies
+S1019,Movie,Title_19,Unknown,United Kingdom,2018,TV-MA,114,Comedies
+S1020,Movie,Title_20,Director C,Spain,2010,TV-14,121,International Movies
+S1021,Movie,Title_21,Director C,South Korea,2017,TV-PG,63,Documentaries
+S1022,Movie,Title_22,Director B,United States,2014,TV-14,119,Documentaries
+S1023,Movie,Title_23,Director A,South Korea,2012,TV-PG,175,Horror
+S1024,Movie,Title_24,Director A,United Kingdom,2020,TV-PG,134,International Movies
+S1025,TV Show,Title_25,Director B,United Kingdom,2016,PG-13,154,Dramas
+S1026,Movie,Title_26,Director C,South Korea,2016,TV-14,166,Dramas
+S1027,Movie,Title_27,Unknown,Spain,2018,TV-MA,155,International Movies
+S1028,Movie,Title_28,Director B,Spain,2016,PG-13,150,Dramas
+S1029,Movie,Title_29,Unknown,United Kingdom,2022,PG-13,89,Documentaries
+S1030,Movie,Title_30,Director C,India,2025,TV-MA,166,Dramas
+S1031,Movie,Title_31,Director A,Spain,2020,PG-13,61,Dramas
+S1032,Movie,Title_32,Director C,South Korea,2023,TV-PG,121,International Movies
+S1033,TV Show,Title_33,Director B,Spain,2012,TV-PG,108,International Movies
+S1034,TV Show,Title_34,Director A,South Korea,2020,TV-14,68,Dramas
+S1035,TV Show,Title_35,Director B,United Kingdom,2022,TV-14,151,Comedies
+S1036,Movie,Title_36,Director B,Spain,2024,TV-MA,90,International Movies
+S1037,Movie,Title_37,Director C,South Korea,2023,TV-14,157,Horror
+S1038,Movie,Title_38,Director B,United Kingdom,2022,TV-PG,120,Horror
+S1039,Movie,Title_39,Director C,India,2010,TV-MA,179,Documentaries
+S1040,Movie,Title_40,Director A,South Korea,2017,TV-MA,138,Dramas
+S1041,Movie,Title_41,Director C,India,2021,TV-14,107,Comedies
+S1042,Movie,Title_42,Director A,India,2012,TV-PG,84,Documentaries
+S1043,TV Show,Title_43,Director C,United States,2021,TV-MA,95,Dramas
+S1044,Movie,Title_44,Unknown,Spain,2017,TV-PG,67,International Movies
+S1045,Movie,Title_45,Unknown,South Korea,2017,TV-PG,132,Horror
+S1046,Movie,Title_46,Director B,India,2022,TV-PG,117,Comedies
+S1047,Movie,Title_47,Director C,United States,2014,TV-14,160,Horror
+S1048,Movie,Title_48,Director C,United Kingdom,2022,PG-13,171,International Movies
+S1049,Movie,Title_49,Director A,South Korea,2021,PG-13,104,Dramas
+S1050,TV Show,Title_50,Director B,India,2022,TV-MA,121,International Movies
+S1051,TV Show,Title_51,Director C,Spain,2025,TV-PG,98,International Movies
+S1052,TV Show,Title_52,Director B,United States,2010,TV-14,155,Horror
+S1053,TV Show,Title_53,Unknown,India,2022,TV-PG,117,Comedies
+S1054,Movie,Title_54,Director C,Spain,2019,TV-PG,175,International Movies
+S1055,TV Show,Title_55,Director C,India,2016,TV-14,140,Horror
+S1056,Movie,Title_56,Director B,South Korea,2021,PG-13,158,Comedies
+S1057,Movie,Title_57,Director C,South Korea,2019,TV-PG,160,Dramas
+S1058,Movie,Title_58,Director B,South Korea,2014,TV-PG,142,Dramas
+S1059,Movie,Title_59,Director C,United States,2017,PG-13,123,Documentaries
+S1060,Movie,Title_60,Director A,South Korea,2018,TV-14,103,Horror
+S1061,Movie,Title_61,Director B,Spain,2020,TV-MA,88,Comedies
+S1062,TV Show,Title_62,Director C,India,2023,PG-13,118,International Movies
+S1063,Movie,Title_63,Unknown,United Kingdom,2016,TV-MA,130,Dramas
+S1064,Movie,Title_64,Director C,Spain,2023,TV-MA,151,Comedies
+S1065,Movie,Title_65,Unknown,Spain,2022,PG-13,68,Horror
+S1066,Movie,Title_66,Unknown,South Korea,2024,TV-PG,151,Documentaries
+S1067,TV Show,Title_67,Director A,United States,2016,TV-MA,65,Dramas
+S1068,Movie,Title_68,Director B,India,2010,TV-MA,88,Comedies
+S1069,TV Show,Title_69,Director C,United States,2024,TV-14,117,Comedies
+S1070,TV Show,Title_70,Director A,India,2013,TV-PG,76,Comedies
+S1071,Movie,Title_71,Director C,India,2011,TV-MA,75,Horror
+S1072,Movie,Title_72,Unknown,United States,2011,TV-14,146,Horror
+S1073,TV Show,Title_73,Director B,Spain,2011,TV-PG,154,Horror
+S1074,TV Show,Title_74,Director C,India,2013,PG-13,62,International Movies
+S1075,TV Show,Title_75,Director C,United States,2023,PG-13,80,Comedies
+S1076,TV Show,Title_76,Unknown,India,2010,TV-14,123,Dramas
+S1077,Movie,Title_77,Director C,United Kingdom,2024,PG-13,149,Horror
+S1078,Movie,Title_78,Director C,Spain,2013,TV-MA,95,Horror
+S1079,Movie,Title_79,Unknown,South Korea,2011,TV-PG,165,Comedies
+S1080,TV Show,Title_80,Director A,India,2014,TV-MA,160,Horror
+S1081,Movie,Title_81,Unknown,United Kingdom,2012,TV-MA,176,International Movies
+S1082,Movie,Title_82,Director A,South Korea,2024,PG-13,145,International Movies
+S1083,Movie,Title_83,Director B,South Korea,2021,TV-MA,121,Horror
+S1084,Movie,Title_84,Director A,India,2017,PG-13,101,Comedies
+S1085,Movie,Title_85,Director A,United States,2013,TV-PG,135,Comedies
+S1086,TV Show,Title_86,Director B,India,2010,TV-PG,101,Comedies
+S1087,Movie,Title_87,Director A,United Kingdom,2010,TV-MA,120,Documentaries
+S1088,TV Show,Title_88,Unknown,South Korea,2021,TV-14,72,Horror
+S1089,Movie,Title_89,Director A,India,2019,PG-13,70,Comedies
+S1090,Movie,Title_90,Director B,United States,2012,PG-13,113,International Movies
+S1091,TV Show,Title_91,Unknown,India,2024,TV-MA,75,Dramas
+S1092,TV Show,Title_92,Director B,Spain,2018,PG-13,67,Dramas
+S1093,Movie,Title_93,Director B,United States,2016,PG-13,163,Comedies
+S1094,TV Show,Title_94,Director C,United Kingdom,2011,TV-14,118,Dramas
+S1095,Movie,Title_95,Director C,South Korea,2024,TV-14,116,Dramas
+S1096,Movie,Title_96,Director B,India,2022,TV-MA,99,Documentaries
+S1097,Movie,Title_97,Director B,United States,2018,TV-14,168,International Movies
+S1098,Movie,Title_98,Director B,Spain,2019,TV-MA,118,International Movies
+S1099,Movie,Title_99,Director C,United States,2011,TV-PG,61,Documentaries
+S1100,Movie,Title_100,Director C,Spain,2012,TV-MA,153,Documentaries
+S1101,Movie,Title_101,Director A,United Kingdom,2020,TV-PG,153,Dramas
+S1102,Movie,Title_102,Director A,South Korea,2022,TV-MA,135,Horror
+S1103,Movie,Title_103,Director B,United Kingdom,2019,PG-13,69,Dramas
+S1104,TV Show,Title_104,Unknown,India,2023,TV-14,103,Documentaries
+S1105,Movie,Title_105,Unknown,United States,2011,TV-PG,70,International Movies
+S1106,Movie,Title_106,Director C,Spain,2012,TV-MA,138,Dramas
+S1107,TV Show,Title_107,Director C,Spain,2015,TV-14,139,Horror
+S1108,Movie,Title_108,Director C,United States,2018,TV-MA,140,Dramas
+S1109,Movie,Title_109,Director B,United States,2018,TV-14,149,Comedies
+S1110,Movie,Title_110,Unknown,India,2016,TV-14,61,Dramas
+S1111,Movie,Title_111,Director A,United Kingdom,2021,TV-MA,109,Documentaries
+S1112,TV Show,Title_112,Director B,Spain,2012,TV-PG,71,International Movies
+S1113,TV Show,Title_113,Director A,India,2013,TV-PG,174,International Movies
+S1114,Movie,Title_114,Director A,United Kingdom,2015,PG-13,149,Documentaries
+S1115,TV Show,Title_115,Director B,India,2020,TV-14,82,Comedies
+S1116,TV Show,Title_116,Director A,Spain,2014,PG-13,77,Documentaries
+S1117,Movie,Title_117,Unknown,United States,2011,PG-13,121,Dramas
+S1118,TV Show,Title_118,Director A,United States,2022,TV-MA,155,Documentaries
+S1119,Movie,Title_119,Unknown,United Kingdom,2015,TV-MA,172,Documentaries
+S1120,TV Show,Title_120,Unknown,South Korea,2012,TV-MA,121,Comedies
+S1121,TV Show,Title_121,Unknown,United Kingdom,2025,TV-14,97,Dramas
+S1122,Movie,Title_122,Director C,South Korea,2023,TV-MA,170,Horror
+S1123,Movie,Title_123,Director A,India,2017,TV-MA,126,Horror
+S1124,Movie,Title_124,Director B,India,2011,TV-14,97,International Movies
+S1125,Movie,Title_125,Director B,Spain,2010,TV-14,126,Documentaries
+S1126,TV Show,Title_126,Director A,South Korea,2018,TV-PG,153,International Movies
+S1127,TV Show,Title_127,Director C,Spain,2023,TV-MA,120,Comedies
+S1128,Movie,Title_128,Director C,United States,2021,TV-MA,60,Horror
+S1129,Movie,Title_129,Unknown,South Korea,2012,TV-MA,153,Documentaries
+S1130,Movie,Title_130,Director A,United Kingdom,2020,TV-PG,104,Comedies
+S1131,Movie,Title_131,Director A,United States,2010,TV-MA,155,Comedies
+S1132,Movie,Title_132,Director B,United States,2016,TV-PG,87,Documentaries
+S1133,Movie,Title_133,Director A,United Kingdom,2022,PG-13,80,Comedies
+S1134,TV Show,Title_134,Director C,United States,2024,TV-PG,169,Documentaries
+S1135,Movie,Title_135,Director A,South Korea,2019,PG-13,72,Documentaries
+S1136,Movie,Title_136,Director B,Spain,2014,TV-MA,86,Dramas
+S1137,TV Show,Title_137,Unknown,United States,2014,PG-13,159,International Movies
+S1138,Movie,Title_138,Director B,South Korea,2023,TV-PG,66,Comedies
+S1139,TV Show,Title_139,Director B,India,2010,TV-14,81,Comedies
+S1140,TV Show,Title_140,Unknown,South Korea,2024,PG-13,133,Dramas
+S1141,Movie,Title_141,Director B,Spain,2024,PG-13,162,Dramas
+S1142,Movie,Title_142,Director B,South Korea,2018,TV-MA,112,Dramas
+S1143,Movie,Title_143,Director A,United Kingdom,2016,TV-PG,138,Horror
+S1144,Movie,Title_144,Director A,Spain,2017,PG-13,138,Horror
+S1145,Movie,Title_145,Unknown,India,2018,PG-13,63,Horror
+S1146,Movie,Title_146,Director A,United Kingdom,2015,PG-13,155,Documentaries
+S1147,Movie,Title_147,Director A,South Korea,2021,PG-13,82,Comedies
+S1148,Movie,Title_148,Director B,Spain,2014,TV-14,178,International Movies
+S1149,Movie,Title_149,Director C,India,2015,TV-PG,129,Documentaries
+S1150,TV Show,Title_150,Director A,United Kingdom,2020,TV-MA,147,Comedies
+S1151,Movie,Title_151,Director C,India,2011,TV-MA,143,Comedies
+S1152,Movie,Title_152,Director A,South Korea,2013,TV-14,160,Dramas
+S1153,Movie,Title_153,Director A,India,2012,TV-PG,143,Dramas
+S1154,TV Show,Title_154,Unknown,United States,2022,PG-13,135,Documentaries
+S1155,Movie,Title_155,Unknown,United Kingdom,2016,TV-14,92,Dramas
+S1156,Movie,Title_156,Unknown,India,2018,TV-PG,87,Comedies
+S1157,TV Show,Title_157,Director C,South Korea,2014,PG-13,67,Dramas
+S1158,Movie,Title_158,Director B,South Korea,2015,TV-14,60,Horror
+S1159,TV Show,Title_159,Director A,India,2019,TV-PG,96,Dramas
+S1160,Movie,Title_160,Director A,South Korea,2023,TV-MA,122,Comedies
+S1161,Movie,Title_161,Director A,Spain,2021,TV-MA,81,Documentaries
+S1162,Movie,Title_162,Director C,Spain,2021,TV-PG,129,International Movies
+S1163,Movie,Title_163,Unknown,Spain,2011,TV-MA,80,Dramas
+S1164,Movie,Title_164,Director B,United States,2025,TV-PG,155,Comedies
+S1165,TV Show,Title_165,Director C,India,2012,PG-13,94,International Movies
+S1166,Movie,Title_166,Unknown,United States,2012,TV-PG,138,International Movies
+S1167,Movie,Title_167,Director C,South Korea,2021,PG-13,64,Horror
+S1168,Movie,Title_168,Director B,United States,2021,TV-14,119,International Movies
+S1169,Movie,Title_169,Unknown,South Korea,2024,TV-PG,179,Comedies
+S1170,Movie,Title_170,Director C,South Korea,2018,TV-14,105,Comedies
+S1171,Movie,Title_171,Director B,United Kingdom,2024,TV-MA,109,Dramas
+S1172,Movie,Title_172,Director A,Spain,2016,PG-13,107,Dramas
+S1173,Movie,Title_173,Director B,South Korea,2017,TV-PG,65,Dramas
+S1174,Movie,Title_174,Director A,United Kingdom,2020,TV-14,148,International Movies
+S1175,Movie,Title_175,Director C,Spain,2025,PG-13,115,International Movies
+S1176,Movie,Title_176,Unknown,South Korea,2025,PG-13,169,Horror
+S1177,Movie,Title_177,Unknown,South Korea,2019,TV-MA,118,Dramas
+S1178,TV Show,Title_178,Director C,United States,2020,TV-MA,179,Documentaries
+S1179,Movie,Title_179,Unknown,United States,2018,PG-13,163,Horror
+S1180,Movie,Title_180,Unknown,Spain,2015,PG-13,88,Documentaries
+S1181,Movie,Title_181,Director A,South Korea,2013,TV-PG,130,International Movies
+S1182,TV Show,Title_182,Director C,India,2021,PG-13,163,Horror
+S1183,TV Show,Title_183,Director B,United States,2010,TV-PG,136,Horror
+S1184,Movie,Title_184,Director A,Spain,2017,PG-13,161,Comedies
+S1185,Movie,Title_185,Director C,South Korea,2016,TV-MA,77,International Movies
+S1186,TV Show,Title_186,Director A,South Korea,2011,TV-PG,61,International Movies
+S1187,Movie,Title_187,Director B,India,2017,TV-14,67,Horror
+S1188,Movie,Title_188,Director B,Spain,2021,TV-MA,134,International Movies
+S1189,Movie,Title_189,Director C,South Korea,2014,TV-PG,156,Horror
+S1190,Movie,Title_190,Director B,United States,2016,TV-PG,113,Comedies
+S1191,TV Show,Title_191,Director A,India,2013,TV-14,97,Horror
+S1192,TV Show,Title_192,Director B,Spain,2014,TV-PG,107,International Movies
+S1193,Movie,Title_193,Director A,India,2017,PG-13,86,International Movies
+S1194,Movie,Title_194,Director A,United States,2010,TV-14,79,Horror
+S1195,Movie,Title_195,Director B,Spain,2010,TV-MA,71,Horror
+S1196,TV Show,Title_196,Director C,India,2024,TV-MA,102,Horror
+S1197,TV Show,Title_197,Unknown,United Kingdom,2013,PG-13,120,Dramas
+S1198,TV Show,Title_198,Director B,United States,2012,TV-MA,90,International Movies
+S1199,TV Show,Title_199,Director A,United States,2022,TV-PG,150,International Movies
+S1200,Movie,Title_200,Director A,United States,2019,TV-PG,155,Dramas
+S1201,Movie,Title_201,Director B,United Kingdom,2021,PG-13,120,Horror
+S1202,Movie,Title_202,Director C,United Kingdom,2011,TV-MA,133,Comedies
+S1203,TV Show,Title_203,Director C,South Korea,2021,TV-MA,126,Horror
+S1204,Movie,Title_204,Director A,India,2012,PG-13,168,Horror
+S1205,Movie,Title_205,Director A,South Korea,2020,TV-14,150,Dramas
+S1206,Movie,Title_206,Director C,India,2024,TV-MA,94,International Movies
+S1207,Movie,Title_207,Unknown,United Kingdom,2024,TV-14,154,Horror
+S1208,Movie,Title_208,Director B,United Kingdom,2020,TV-MA,74,International Movies
+S1209,Movie,Title_209,Director A,South Korea,2023,TV-MA,75,Documentaries
+S1210,Movie,Title_210,Director A,Spain,2020,TV-MA,72,International Movies
+S1211,Movie,Title_211,Director C,South Korea,2010,TV-MA,172,Comedies
+S1212,Movie,Title_212,Director B,India,2010,TV-PG,94,Comedies
+S1213,Movie,Title_213,Director C,South Korea,2015,TV-14,175,Horror
+S1214,TV Show,Title_214,Director B,United States,2025,TV-14,134,International Movies
+S1215,Movie,Title_215,Director B,India,2014,TV-MA,118,Horror
+S1216,Movie,Title_216,Director B,India,2017,TV-MA,80,Dramas
+S1217,TV Show,Title_217,Director A,Spain,2011,TV-14,174,Comedies
+S1218,Movie,Title_218,Unknown,United Kingdom,2025,TV-PG,113,Horror
+S1219,TV Show,Title_219,Director C,India,2013,PG-13,134,Dramas
+S1220,Movie,Title_220,Unknown,United Kingdom,2017,PG-13,89,Horror
+S1221,Movie,Title_221,Director C,South Korea,2021,TV-14,107,International Movies
+S1222,Movie,Title_222,Director B,United States,2015,TV-MA,176,International Movies
+S1223,Movie,Title_223,Director A,Spain,2010,TV-MA,94,International Movies
+S1224,Movie,Title_224,Unknown,United Kingdom,2024,TV-PG,145,International Movies
+S1225,Movie,Title_225,Director A,India,2013,PG-13,97,Documentaries
+S1226,TV Show,Title_226,Director C,United Kingdom,2010,TV-PG,90,Dramas
+S1227,Movie,Title_227,Director A,India,2022,PG-13,137,Dramas
+S1228,TV Show,Title_228,Director A,United Kingdom,2011,TV-14,83,International Movies
+S1229,Movie,Title_229,Unknown,India,2014,PG-13,173,Documentaries
+S1230,TV Show,Title_230,Director B,South Korea,2023,TV-PG,108,International Movies
+S1231,Movie,Title_231,Director A,India,2017,TV-PG,155,Documentaries
+S1232,Movie,Title_232,Director B,India,2017,TV-PG,159,International Movies
+S1233,Movie,Title_233,Director C,United States,2020,TV-14,91,Comedies
+S1234,Movie,Title_234,Director A,India,2012,PG-13,114,Comedies
+S1235,TV Show,Title_235,Unknown,United States,2020,PG-13,138,Horror
+S1236,Movie,Title_236,Director C,Spain,2022,TV-PG,166,International Movies
+S1237,Movie,Title_237,Director C,United States,2013,PG-13,117,Dramas
+S1238,Movie,Title_238,Unknown,South Korea,2019,TV-MA,158,Horror
+S1239,Movie,Title_239,Director A,United States,2020,TV-MA,62,Comedies
+S1240,TV Show,Title_240,Director A,Spain,2023,TV-MA,139,International Movies
+S1241,TV Show,Title_241,Director C,South Korea,2015,PG-13,128,Horror
+S1242,TV Show,Title_242,Director A,United Kingdom,2020,TV-14,144,International Movies
+S1243,Movie,Title_243,Director B,United Kingdom,2025,TV-14,69,Comedies
+S1244,Movie,Title_244,Unknown,United States,2020,TV-14,142,Horror
+S1245,TV Show,Title_245,Director B,United States,2019,TV-14,84,Comedies
+S1246,Movie,Title_246,Director A,Spain,2012,TV-MA,127,Documentaries
+S1247,TV Show,Title_247,Director C,Spain,2011,TV-MA,120,Comedies
+S1248,TV Show,Title_248,Unknown,India,2015,TV-PG,88,International Movies
+S1249,TV Show,Title_249,Director A,Spain,2020,PG-13,78,Dramas
+S1250,Movie,Title_250,Director A,India,2022,PG-13,102,Comedies
+S1251,Movie,Title_251,Director C,South Korea,2024,TV-14,125,Dramas
+S1252,TV Show,Title_252,Director C,United States,2014,TV-MA,133,Documentaries
+S1253,Movie,Title_253,Director B,South Korea,2023,TV-14,120,Horror
+S1254,Movie,Title_254,Unknown,Spain,2019,TV-PG,102,Horror
+S1255,Movie,Title_255,Unknown,South Korea,2014,PG-13,84,Dramas
+S1256,TV Show,Title_256,Director C,South Korea,2019,PG-13,79,Horror
+S1257,Movie,Title_257,Director B,South Korea,2022,TV-14,107,Comedies
+S1258,Movie,Title_258,Unknown,Spain,2014,TV-PG,142,Dramas
+S1259,Movie,Title_259,Director C,South Korea,2019,PG-13,146,International Movies
+S1260,Movie,Title_260,Director A,India,2021,TV-PG,83,Comedies
+S1261,TV Show,Title_261,Unknown,Spain,2014,TV-PG,70,Comedies
+S1262,Movie,Title_262,Director B,South Korea,2012,TV-14,169,Comedies
+S1263,Movie,Title_263,Director B,Spain,2016,TV-MA,157,International Movies
+S1264,TV Show,Title_264,Director B,United Kingdom,2015,TV-14,114,Documentaries
+S1265,TV Show,Title_265,Director A,India,2013,TV-MA,87,Horror
+S1266,Movie,Title_266,Unknown,South Korea,2011,TV-PG,128,Dramas
+S1267,TV Show,Title_267,Unknown,United Kingdom,2021,TV-MA,122,Documentaries
+S1268,Movie,Title_268,Director A,United Kingdom,2018,TV-PG,118,Dramas
+S1269,Movie,Title_269,Unknown,Spain,2010,PG-13,64,Horror
+S1270,TV Show,Title_270,Director A,United Kingdom,2022,PG-13,110,International Movies
+S1271,TV Show,Title_271,Director A,India,2022,PG-13,80,Comedies
+S1272,TV Show,Title_272,Director A,India,2020,TV-14,71,Comedies
+S1273,TV Show,Title_273,Director B,United States,2024,TV-14,109,International Movies
+S1274,Movie,Title_274,Unknown,India,2023,TV-PG,63,Documentaries
+S1275,Movie,Title_275,Director A,United Kingdom,2013,PG-13,177,Documentaries
+S1276,TV Show,Title_276,Unknown,India,2010,TV-14,172,Dramas
+S1277,Movie,Title_277,Director B,Spain,2022,PG-13,101,International Movies
+S1278,TV Show,Title_278,Director A,United States,2025,TV-14,143,Documentaries
+S1279,TV Show,Title_279,Director C,United Kingdom,2025,TV-MA,97,International Movies
+S1280,TV Show,Title_280,Director B,United States,2015,TV-MA,84,Horror
+S1281,Movie,Title_281,Director C,United Kingdom,2013,PG-13,73,Comedies
+S1282,Movie,Title_282,Unknown,Spain,2014,TV-PG,134,Comedies
+S1283,Movie,Title_283,Unknown,United States,2014,TV-14,91,Comedies
+S1284,Movie,Title_284,Director B,South Korea,2018,TV-14,70,International Movies
+S1285,Movie,Title_285,Unknown,United Kingdom,2010,TV-MA,120,International Movies
+S1286,Movie,Title_286,Director C,South Korea,2022,TV-MA,77,Dramas
+S1287,Movie,Title_287,Director A,United States,2011,TV-PG,86,Comedies
+S1288,Movie,Title_288,Director A,South Korea,2022,TV-PG,114,Dramas
+S1289,Movie,Title_289,Director A,South Korea,2015,TV-PG,113,Comedies
+S1290,Movie,Title_290,Director B,United States,2014,PG-13,141,Dramas
+S1291,Movie,Title_291,Unknown,Spain,2020,TV-MA,179,Dramas
+S1292,TV Show,Title_292,Director C,South Korea,2016,PG-13,146,Horror
+S1293,Movie,Title_293,Unknown,South Korea,2012,TV-MA,134,Dramas
+S1294,Movie,Title_294,Unknown,Spain,2012,TV-MA,80,International Movies
+S1295,Movie,Title_295,Unknown,South Korea,2019,TV-14,103,Dramas
+S1296,TV Show,Title_296,Director A,South Korea,2011,TV-MA,64,Comedies
+S1297,Movie,Title_297,Director C,South Korea,2025,TV-MA,146,Dramas
+S1298,Movie,Title_298,Director C,India,2022,PG-13,100,Documentaries
+S1299,Movie,Title_299,Unknown,Spain,2012,TV-MA,118,Comedies
+S1300,Movie,Title_300,Director A,South Korea,2019,PG-13,148,Documentaries
+S1301,Movie,Title_301,Director A,Spain,2010,TV-PG,164,Comedies
+S1302,Movie,Title_302,Director C,United Kingdom,2014,TV-MA,113,International Movies
+S1303,Movie,Title_303,Director A,United Kingdom,2023,TV-MA,133,International Movies
+S1304,TV Show,Title_304,Director A,South Korea,2024,PG-13,81,International Movies
+S1305,TV Show,Title_305,Director A,Spain,2021,TV-PG,142,Documentaries
+S1306,Movie,Title_306,Director B,Spain,2014,TV-14,124,Horror
+S1307,Movie,Title_307,Unknown,Spain,2021,TV-PG,123,Comedies
+S1308,TV Show,Title_308,Director C,India,2020,PG-13,130,International Movies
+S1309,Movie,Title_309,Director C,United Kingdom,2016,TV-PG,63,Comedies
+S1310,Movie,Title_310,Director B,Spain,2013,PG-13,124,Documentaries
+S1311,Movie,Title_311,Unknown,Spain,2012,PG-13,74,Horror
+S1312,Movie,Title_312,Director C,India,2010,TV-14,163,Documentaries
+S1313,TV Show,Title_313,Director A,India,2021,TV-MA,135,Comedies
+S1314,TV Show,Title_314,Director C,Spain,2024,PG-13,81,Horror
+S1315,Movie,Title_315,Director A,United States,2017,PG-13,145,Horror
+S1316,Movie,Title_316,Director B,Spain,2022,TV-14,173,Documentaries
+S1317,Movie,Title_317,Director A,Spain,2012,PG-13,106,International Movies
+S1318,Movie,Title_318,Director C,India,2022,TV-MA,140,Comedies
+S1319,Movie,Title_319,Director C,India,2024,TV-14,152,Dramas
+S1320,Movie,Title_320,Director C,Spain,2011,TV-MA,105,Dramas
+S1321,TV Show,Title_321,Director B,Spain,2020,TV-MA,73,Documentaries
+S1322,Movie,Title_322,Director B,Spain,2013,TV-14,109,Comedies
+S1323,Movie,Title_323,Unknown,India,2012,PG-13,79,Comedies
+S1324,TV Show,Title_324,Director C,Spain,2022,TV-MA,109,Documentaries
+S1325,TV Show,Title_325,Director A,Spain,2010,TV-MA,171,Comedies
+S1326,Movie,Title_326,Director B,South Korea,2012,TV-MA,92,International Movies
+S1327,Movie,Title_327,Director C,United States,2021,TV-MA,178,Documentaries
+S1328,Movie,Title_328,Director C,United Kingdom,2011,TV-14,118,International Movies
+S1329,Movie,Title_329,Director B,United States,2017,TV-14,102,Comedies
+S1330,Movie,Title_330,Unknown,South Korea,2015,TV-PG,138,Documentaries
+S1331,TV Show,Title_331,Director B,United Kingdom,2018,TV-PG,71,Comedies
+S1332,Movie,Title_332,Director B,Spain,2017,TV-MA,99,Documentaries
+S1333,Movie,Title_333,Director A,South Korea,2019,PG-13,177,Comedies
+S1334,Movie,Title_334,Director A,Spain,2012,TV-MA,79,International Movies
+S1335,Movie,Title_335,Unknown,India,2014,PG-13,153,International Movies
+S1336,TV Show,Title_336,Director C,South Korea,2016,TV-MA,97,Comedies
+S1337,TV Show,Title_337,Director B,India,2014,TV-PG,62,Documentaries
+S1338,Movie,Title_338,Unknown,South Korea,2017,TV-PG,87,Dramas
+S1339,Movie,Title_339,Director A,South Korea,2021,PG-13,115,International Movies
+S1340,Movie,Title_340,Director B,India,2014,TV-MA,149,International Movies
+S1341,Movie,Title_341,Director C,United Kingdom,2010,PG-13,153,Dramas
+S1342,Movie,Title_342,Director A,United States,2014,TV-PG,72,Comedies
+S1343,Movie,Title_343,Director A,Spain,2013,TV-MA,136,Documentaries
+S1344,Movie,Title_344,Director A,South Korea,2015,TV-MA,125,Comedies
+S1345,Movie,Title_345,Unknown,Spain,2012,PG-13,96,Horror
+S1346,Movie,Title_346,Director C,India,2024,TV-14,108,International Movies
+S1347,Movie,Title_347,Director B,Spain,2025,PG-13,161,Horror
+S1348,Movie,Title_348,Unknown,India,2020,TV-PG,125,International Movies
+S1349,Movie,Title_349,Unknown,Spain,2014,TV-PG,95,International Movies
+S1350,Movie,Title_350,Unknown,United States,2011,TV-PG,113,Horror
+S1351,TV Show,Title_351,Director A,United States,2020,TV-PG,85,Horror
+S1352,Movie,Title_352,Director C,United States,2015,TV-PG,134,Comedies
+S1353,Movie,Title_353,Unknown,United States,2022,TV-14,131,Horror
+S1354,Movie,Title_354,Director B,United States,2024,TV-MA,167,Comedies
+S1355,Movie,Title_355,Director C,United States,2021,PG-13,99,Comedies
+S1356,Movie,Title_356,Director B,India,2015,PG-13,102,Comedies
+S1357,Movie,Title_357,Director C,South Korea,2014,TV-PG,81,International Movies
+S1358,TV Show,Title_358,Director B,Spain,2015,PG-13,79,International Movies
+S1359,Movie,Title_359,Director A,United States,2020,TV-PG,67,Horror
+S1360,Movie,Title_360,Unknown,India,2016,TV-14,88,International Movies
+S1361,Movie,Title_361,Director B,India,2021,TV-14,99,Horror
+S1362,Movie,Title_362,Director C,India,2014,TV-MA,149,International Movies
+S1363,Movie,Title_363,Unknown,South Korea,2010,TV-14,89,Documentaries
+S1364,TV Show,Title_364,Unknown,Spain,2017,TV-14,140,Documentaries
+S1365,Movie,Title_365,Director C,South Korea,2013,TV-MA,143,Horror
+S1366,TV Show,Title_366,Director B,United Kingdom,2018,PG-13,175,International Movies
+S1367,TV Show,Title_367,Director A,India,2023,TV-PG,114,International Movies
+S1368,Movie,Title_368,Director A,United Kingdom,2019,TV-PG,75,Comedies
+S1369,Movie,Title_369,Director B,United States,2021,PG-13,105,Dramas
+S1370,Movie,Title_370,Unknown,United States,2015,TV-MA,121,Horror
+S1371,Movie,Title_371,Unknown,South Korea,2010,PG-13,166,Dramas
+S1372,Movie,Title_372,Unknown,Spain,2012,TV-14,66,Dramas
+S1373,Movie,Title_373,Unknown,United Kingdom,2012,TV-MA,139,Horror
+S1374,Movie,Title_374,Director B,Spain,2019,TV-MA,104,International Movies
+S1375,Movie,Title_375,Unknown,South Korea,2025,TV-MA,118,Horror
+S1376,TV Show,Title_376,Director C,United States,2021,TV-PG,170,Dramas
+S1377,Movie,Title_377,Unknown,Spain,2021,PG-13,115,International Movies
+S1378,TV Show,Title_378,Director A,Spain,2013,TV-MA,107,Documentaries
+S1379,Movie,Title_379,Unknown,United States,2025,TV-MA,86,Horror
+S1380,Movie,Title_380,Director B,United Kingdom,2015,TV-MA,112,Horror
+S1381,Movie,Title_381,Director A,United States,2024,PG-13,146,International Movies
+S1382,Movie,Title_382,Director B,Spain,2016,TV-PG,147,Documentaries
+S1383,TV Show,Title_383,Director B,United Kingdom,2019,TV-14,132,Documentaries
+S1384,TV Show,Title_384,Director A,United Kingdom,2013,TV-PG,94,International Movies
+S1385,TV Show,Title_385,Director B,United States,2015,TV-MA,110,Comedies
+S1386,Movie,Title_386,Director B,Spain,2020,TV-PG,143,Horror
+S1387,Movie,Title_387,Unknown,South Korea,2010,TV-PG,96,Horror
+S1388,TV Show,Title_388,Director C,Spain,2023,TV-14,165,Dramas
+S1389,TV Show,Title_389,Director B,India,2017,PG-13,140,International Movies
+S1390,TV Show,Title_390,Director B,South Korea,2016,PG-13,170,Dramas
+S1391,Movie,Title_391,Director B,United Kingdom,2024,TV-PG,154,Dramas
+S1392,Movie,Title_392,Unknown,South Korea,2020,TV-PG,178,Documentaries
+S1393,TV Show,Title_393,Director C,United Kingdom,2020,PG-13,116,Horror
+S1394,Movie,Title_394,Director A,United Kingdom,2025,PG-13,67,Dramas
+S1395,TV Show,Title_395,Unknown,South Korea,2018,TV-14,138,Documentaries
+S1396,TV Show,Title_396,Unknown,United Kingdom,2012,TV-MA,154,International Movies
+S1397,Movie,Title_397,Director C,United Kingdom,2011,TV-PG,176,Dramas
+S1398,TV Show,Title_398,Director C,India,2010,PG-13,153,Horror
+S1399,TV Show,Title_399,Unknown,Spain,2012,TV-PG,169,Dramas
+S1400,Movie,Title_400,Director A,Spain,2014,TV-PG,79,International Movies
+S1401,TV Show,Title_401,Unknown,India,2023,PG-13,162,Dramas
+S1402,Movie,Title_402,Director C,South Korea,2020,TV-14,112,Horror
+S1403,TV Show,Title_403,Director A,United States,2011,TV-PG,178,Documentaries
+S1404,Movie,Title_404,Director C,United States,2021,TV-14,71,Horror
+S1405,TV Show,Title_405,Director A,United States,2012,PG-13,108,Documentaries
+S1406,Movie,Title_406,Director B,India,2024,TV-MA,76,Comedies
+S1407,Movie,Title_407,Director C,India,2024,TV-MA,123,Horror
+S1408,TV Show,Title_408,Director C,United Kingdom,2024,TV-PG,101,Horror
+S1409,Movie,Title_409,Unknown,United States,2013,PG-13,153,International Movies
+S1410,Movie,Title_410,Director C,South Korea,2016,TV-14,88,Dramas
+S1411,TV Show,Title_411,Director C,South Korea,2022,TV-PG,78,Documentaries
+S1412,TV Show,Title_412,Director B,United States,2012,PG-13,169,Documentaries
+S1413,Movie,Title_413,Director C,United States,2025,PG-13,70,International Movies
+S1414,Movie,Title_414,Director B,United States,2024,TV-14,157,International Movies
+S1415,Movie,Title_415,Director B,India,2018,TV-PG,109,Dramas
+S1416,Movie,Title_416,Director B,India,2017,PG-13,130,Dramas
+S1417,Movie,Title_417,Director B,India,2013,PG-13,167,Horror
+S1418,Movie,Title_418,Director A,Spain,2022,PG-13,117,Comedies
+S1419,TV Show,Title_419,Unknown,South Korea,2010,TV-14,93,Dramas
+S1420,TV Show,Title_420,Director A,South Korea,2010,TV-PG,79,International Movies
+S1421,TV Show,Title_421,Director C,United Kingdom,2010,TV-PG,109,Dramas
+S1422,Movie,Title_422,Director A,India,2010,TV-PG,161,Documentaries
+S1423,Movie,Title_423,Director A,Spain,2025,TV-PG,147,Comedies
+S1424,Movie,Title_424,Director C,Spain,2017,TV-MA,69,Horror
+S1425,Movie,Title_425,Director C,South Korea,2012,TV-MA,91,Documentaries
+S1426,Movie,Title_426,Director C,India,2024,TV-PG,111,Documentaries
+S1427,TV Show,Title_427,Director A,United Kingdom,2015,TV-14,74,Comedies
+S1428,Movie,Title_428,Director A,India,2012,TV-MA,160,Horror
+S1429,Movie,Title_429,Director C,United States,2020,PG-13,143,International Movies
+S1430,Movie,Title_430,Unknown,India,2014,TV-MA,62,Horror
+S1431,TV Show,Title_431,Unknown,United States,2022,PG-13,96,Dramas
+S1432,Movie,Title_432,Director B,United States,2024,TV-PG,99,Documentaries
+S1433,Movie,Title_433,Director C,United Kingdom,2023,TV-MA,131,Dramas
+S1434,Movie,Title_434,Director B,South Korea,2022,TV-14,99,International Movies
+S1435,TV Show,Title_435,Unknown,India,2024,TV-MA,167,Dramas
+S1436,Movie,Title_436,Director B,United States,2016,TV-MA,115,Horror
+S1437,TV Show,Title_437,Director C,India,2025,TV-MA,82,Dramas
+S1438,TV Show,Title_438,Director C,South Korea,2011,TV-PG,163,International Movies
+S1439,Movie,Title_439,Director C,South Korea,2025,TV-14,70,International Movies
+S1440,Movie,Title_440,Director A,Spain,2015,TV-MA,169,International Movies
+S1441,TV Show,Title_441,Director B,South Korea,2022,TV-14,123,Horror
+S1442,Movie,Title_442,Unknown,United Kingdom,2015,TV-PG,67,International Movies
+S1443,Movie,Title_443,Unknown,United States,2020,PG-13,152,Documentaries
+S1444,TV Show,Title_444,Unknown,Spain,2012,TV-MA,153,International Movies
+S1445,TV Show,Title_445,Director A,United Kingdom,2015,TV-14,115,Dramas
+S1446,TV Show,Title_446,Director A,India,2019,TV-14,119,Dramas
+S1447,TV Show,Title_447,Director C,United States,2019,TV-PG,69,Dramas
+S1448,Movie,Title_448,Unknown,South Korea,2025,TV-MA,98,Horror
+S1449,Movie,Title_449,Director A,United States,2023,PG-13,87,Dramas
+S1450,TV Show,Title_450,Director C,India,2014,TV-14,108,Horror
+S1451,Movie,Title_451,Unknown,Spain,2025,TV-MA,95,Horror
+S1452,Movie,Title_452,Director B,Spain,2021,PG-13,72,International Movies
+S1453,TV Show,Title_453,Director C,Spain,2011,TV-14,155,Documentaries
+S1454,Movie,Title_454,Director A,South Korea,2018,TV-14,95,International Movies
+S1455,Movie,Title_455,Director A,United Kingdom,2017,PG-13,160,International Movies
+S1456,Movie,Title_456,Director C,United Kingdom,2012,PG-13,85,Horror
+S1457,Movie,Title_457,Director C,United States,2017,TV-PG,145,Horror
+S1458,Movie,Title_458,Director A,South Korea,2023,TV-MA,63,Dramas
+S1459,Movie,Title_459,Director B,Spain,2018,TV-MA,154,Dramas
+S1460,Movie,Title_460,Unknown,Spain,2023,TV-PG,141,International Movies
+S1461,Movie,Title_461,Director B,India,2024,TV-14,123,Comedies
+S1462,TV Show,Title_462,Director C,India,2012,PG-13,97,Comedies
+S1463,Movie,Title_463,Director B,Spain,2012,PG-13,147,Dramas
+S1464,TV Show,Title_464,Director A,Spain,2011,PG-13,179,Comedies
+S1465,Movie,Title_465,Director C,South Korea,2017,TV-14,146,Dramas
+S1466,Movie,Title_466,Unknown,United Kingdom,2019,PG-13,81,Horror
+S1467,TV Show,Title_467,Director A,India,2010,PG-13,61,International Movies
+S1468,Movie,Title_468,Director A,United Kingdom,2017,TV-PG,90,Documentaries
+S1469,TV Show,Title_469,Unknown,South Korea,2016,TV-14,178,International Movies
+S1470,Movie,Title_470,Unknown,Spain,2023,TV-MA,70,Dramas
+S1471,TV Show,Title_471,Director B,United Kingdom,2016,TV-PG,151,Dramas
+S1472,Movie,Title_472,Director C,Spain,2012,TV-PG,105,International Movies
+S1473,TV Show,Title_473,Unknown,Spain,2010,TV-MA,155,Dramas
+S1474,Movie,Title_474,Unknown,United States,2013,TV-PG,121,Comedies
+S1475,TV Show,Title_475,Director C,United Kingdom,2018,TV-14,128,Comedies
+S1476,Movie,Title_476,Unknown,United Kingdom,2014,PG-13,123,Dramas
+S1477,Movie,Title_477,Unknown,Spain,2010,TV-14,161,Dramas
+S1478,TV Show,Title_478,Director B,South Korea,2024,TV-MA,69,Comedies
+S1479,Movie,Title_479,Director A,United States,2014,TV-MA,99,Dramas
+S1480,Movie,Title_480,Director A,Spain,2022,TV-PG,169,Dramas
+S1481,Movie,Title_481,Director A,India,2017,TV-14,83,International Movies
+S1482,Movie,Title_482,Director A,India,2017,TV-14,158,Documentaries
+S1483,Movie,Title_483,Unknown,United States,2014,TV-MA,103,Comedies
+S1484,Movie,Title_484,Director C,South Korea,2021,TV-14,171,International Movies
+S1485,TV Show,Title_485,Director C,Spain,2025,TV-MA,119,Documentaries
+S1486,Movie,Title_486,Director B,United Kingdom,2018,TV-14,121,Dramas
+S1487,Movie,Title_487,Director B,United States,2024,TV-14,146,Dramas
+S1488,TV Show,Title_488,Unknown,South Korea,2010,TV-14,76,International Movies
+S1489,TV Show,Title_489,Director C,United Kingdom,2013,TV-MA,124,Dramas
+S1490,Movie,Title_490,Director C,India,2012,TV-PG,178,Horror
+S1491,Movie,Title_491,Director A,India,2011,TV-14,154,International Movies
+S1492,Movie,Title_492,Unknown,United Kingdom,2024,TV-MA,154,Documentaries
+S1493,Movie,Title_493,Unknown,United States,2017,TV-MA,165,International Movies
+S1494,Movie,Title_494,Director A,India,2016,TV-14,116,Comedies
+S1495,Movie,Title_495,Unknown,Spain,2018,TV-14,114,International Movies
+S1496,Movie,Title_496,Unknown,United Kingdom,2011,TV-PG,165,Dramas
+S1497,Movie,Title_497,Director B,United Kingdom,2023,TV-MA,112,Dramas
+S1498,TV Show,Title_498,Director C,India,2023,TV-MA,115,Horror
+S1499,TV Show,Title_499,Unknown,United States,2025,PG-13,157,Horror
+S1500,Movie,Title_500,Director B,Spain,2013,TV-MA,68,Horror
+S1501,Movie,Title_501,Director C,United States,2023,TV-PG,81,Documentaries
+S1502,Movie,Title_502,Director A,South Korea,2024,PG-13,72,Horror
+S1503,TV Show,Title_503,Director B,South Korea,2015,PG-13,148,Documentaries
+S1504,Movie,Title_504,Director B,India,2020,PG-13,107,Horror
+S1505,Movie,Title_505,Director C,India,2012,TV-14,77,Documentaries
+S1506,TV Show,Title_506,Director A,India,2017,TV-14,174,International Movies
+S1507,TV Show,Title_507,Director B,South Korea,2012,TV-MA,135,International Movies
+S1508,TV Show,Title_508,Unknown,United States,2023,PG-13,99,Dramas
+S1509,TV Show,Title_509,Unknown,United States,2021,TV-PG,76,Documentaries
+S1510,Movie,Title_510,Unknown,India,2022,TV-14,74,Comedies
+S1511,Movie,Title_511,Director A,Spain,2022,TV-PG,165,Dramas
+S1512,TV Show,Title_512,Director B,United States,2025,TV-PG,74,International Movies
+S1513,TV Show,Title_513,Unknown,South Korea,2011,TV-14,138,Documentaries
+S1514,Movie,Title_514,Director A,United Kingdom,2022,TV-14,122,Horror
+S1515,Movie,Title_515,Unknown,United Kingdom,2022,TV-14,178,Comedies
+S1516,Movie,Title_516,Director C,United Kingdom,2012,TV-14,98,International Movies
+S1517,TV Show,Title_517,Director B,Spain,2020,PG-13,72,Dramas
+S1518,TV Show,Title_518,Director B,India,2015,PG-13,140,Documentaries
+S1519,Movie,Title_519,Director A,South Korea,2025,PG-13,91,Comedies
+S1520,Movie,Title_520,Director A,Spain,2011,PG-13,68,Documentaries
+S1521,Movie,Title_521,Director B,South Korea,2017,TV-MA,99,Horror
+S1522,TV Show,Title_522,Unknown,South Korea,2010,PG-13,79,Dramas
+S1523,TV Show,Title_523,Unknown,India,2016,TV-14,149,Documentaries
+S1524,TV Show,Title_524,Director C,United Kingdom,2011,TV-PG,150,International Movies
+S1525,Movie,Title_525,Unknown,India,2019,PG-13,144,Dramas
+S1526,Movie,Title_526,Director A,Spain,2021,TV-MA,141,International Movies
+S1527,Movie,Title_527,Director A,Spain,2025,TV-14,136,Documentaries
+S1528,Movie,Title_528,Unknown,Spain,2015,TV-PG,139,Dramas
+S1529,TV Show,Title_529,Director A,India,2021,TV-PG,132,International Movies
+S1530,TV Show,Title_530,Director B,South Korea,2011,PG-13,122,Horror
+S1531,TV Show,Title_531,Director B,South Korea,2011,TV-PG,135,Horror
+S1532,TV Show,Title_532,Unknown,United States,2019,PG-13,103,Documentaries
+S1533,Movie,Title_533,Director B,Spain,2022,PG-13,97,Dramas
+S1534,TV Show,Title_534,Director B,South Korea,2017,TV-14,142,Comedies
+S1535,TV Show,Title_535,Director C,United States,2024,TV-14,119,Dramas
+S1536,TV Show,Title_536,Director C,South Korea,2024,TV-MA,130,Horror
+S1537,Movie,Title_537,Director B,Spain,2021,TV-14,158,International Movies
+S1538,Movie,Title_538,Unknown,United Kingdom,2011,TV-14,107,Comedies
+S1539,Movie,Title_539,Director C,Spain,2016,PG-13,77,Documentaries
+S1540,TV Show,Title_540,Director A,India,2012,TV-14,75,Comedies
+S1541,Movie,Title_541,Director A,South Korea,2017,PG-13,114,Documentaries
+S1542,Movie,Title_542,Director A,South Korea,2016,PG-13,98,Comedies
+S1543,Movie,Title_543,Unknown,India,2023,TV-14,127,Documentaries
+S1544,Movie,Title_544,Director B,India,2017,TV-MA,118,Documentaries
+S1545,Movie,Title_545,Director A,United Kingdom,2023,TV-MA,148,Comedies
+S1546,Movie,Title_546,Unknown,South Korea,2016,TV-PG,155,Comedies
+S1547,Movie,Title_547,Director C,South Korea,2020,TV-PG,121,Documentaries
+S1548,Movie,Title_548,Director B,United Kingdom,2015,TV-14,163,Horror
+S1549,TV Show,Title_549,Director C,United States,2022,TV-MA,72,Comedies
+S1550,Movie,Title_550,Unknown,United Kingdom,2016,PG-13,168,Dramas
+S1551,TV Show,Title_551,Director A,Spain,2014,TV-PG,140,International Movies
+S1552,Movie,Title_552,Director A,South Korea,2016,PG-13,172,Documentaries
+S1553,Movie,Title_553,Unknown,India,2010,TV-PG,160,Documentaries
+S1554,TV Show,Title_554,Director A,Spain,2010,TV-14,65,International Movies
+S1555,Movie,Title_555,Director B,South Korea,2018,TV-MA,142,Horror
+S1556,Movie,Title_556,Unknown,United Kingdom,2023,TV-PG,136,International Movies
+S1557,Movie,Title_557,Director C,Spain,2014,TV-MA,119,Comedies
+S1558,TV Show,Title_558,Unknown,South Korea,2022,PG-13,149,International Movies
+S1559,Movie,Title_559,Director B,United States,2014,TV-14,73,Documentaries
+S1560,TV Show,Title_560,Director B,United States,2012,TV-MA,154,International Movies
+S1561,Movie,Title_561,Unknown,India,2014,TV-14,113,Dramas
+S1562,Movie,Title_562,Unknown,South Korea,2012,TV-MA,63,Comedies
+S1563,Movie,Title_563,Director A,United States,2018,PG-13,98,International Movies
+S1564,Movie,Title_564,Director B,United Kingdom,2018,PG-13,131,Documentaries
+S1565,Movie,Title_565,Unknown,South Korea,2015,TV-14,84,Comedies
+S1566,Movie,Title_566,Unknown,United Kingdom,2024,PG-13,136,Documentaries
+S1567,Movie,Title_567,Director B,United Kingdom,2010,TV-PG,91,Horror
+S1568,TV Show,Title_568,Unknown,United States,2016,TV-MA,118,Dramas
+S1569,Movie,Title_569,Director A,South Korea,2016,PG-13,161,Horror
+S1570,Movie,Title_570,Director B,Spain,2025,TV-PG,122,Dramas
+S1571,TV Show,Title_571,Director A,United States,2023,TV-14,97,International Movies
+S1572,Movie,Title_572,Director A,United States,2019,TV-PG,179,Comedies
+S1573,Movie,Title_573,Director A,South Korea,2019,TV-14,151,International Movies
+S1574,TV Show,Title_574,Director A,South Korea,2013,TV-14,112,Dramas
+S1575,TV Show,Title_575,Director B,United Kingdom,2017,TV-MA,153,Dramas
+S1576,Movie,Title_576,Director A,South Korea,2015,TV-MA,126,Dramas
+S1577,TV Show,Title_577,Director A,United Kingdom,2013,TV-PG,87,Documentaries
+S1578,Movie,Title_578,Unknown,United States,2013,TV-MA,62,Comedies
+S1579,Movie,Title_579,Director B,India,2025,TV-MA,168,International Movies
+S1580,Movie,Title_580,Director B,Spain,2011,TV-MA,177,International Movies
+S1581,TV Show,Title_581,Director C,United States,2023,TV-PG,157,Horror
+S1582,Movie,Title_582,Director B,South Korea,2011,PG-13,139,Dramas
+S1583,Movie,Title_583,Director B,Spain,2021,TV-MA,81,Dramas
+S1584,Movie,Title_584,Director C,India,2023,TV-MA,155,Dramas
+S1585,Movie,Title_585,Director B,India,2013,TV-PG,97,International Movies
+S1586,Movie,Title_586,Director B,United Kingdom,2014,PG-13,131,Horror
+S1587,Movie,Title_587,Director B,Spain,2017,TV-MA,178,Documentaries
+S1588,Movie,Title_588,Director B,United Kingdom,2024,TV-14,131,Comedies
+S1589,Movie,Title_589,Director C,United States,2015,TV-PG,121,Documentaries
+S1590,Movie,Title_590,Director B,Spain,2023,TV-MA,116,International Movies
+S1591,Movie,Title_591,Director B,United States,2024,TV-MA,65,Dramas
+S1592,Movie,Title_592,Director C,United Kingdom,2013,TV-14,137,Comedies
+S1593,Movie,Title_593,Unknown,Spain,2022,TV-14,91,International Movies
+S1594,TV Show,Title_594,Director A,United Kingdom,2020,TV-PG,158,International Movies
+S1595,Movie,Title_595,Unknown,Spain,2016,TV-PG,69,International Movies
+S1596,Movie,Title_596,Director C,United Kingdom,2017,TV-14,62,Comedies
+S1597,Movie,Title_597,Director A,India,2011,TV-PG,118,Comedies
+S1598,Movie,Title_598,Director C,United Kingdom,2021,TV-14,135,Horror
+S1599,Movie,Title_599,Director C,India,2016,TV-MA,108,Horror
+S1600,Movie,Title_600,Director B,United Kingdom,2024,TV-14,118,Documentaries
+S1601,Movie,Title_601,Director A,Spain,2023,TV-14,90,Comedies
+S1602,Movie,Title_602,Director B,Spain,2011,PG-13,152,Comedies
+S1603,Movie,Title_603,Director A,Spain,2011,TV-14,128,Comedies
+S1604,Movie,Title_604,Director C,South Korea,2017,TV-14,121,Horror
+S1605,Movie,Title_605,Director C,United States,2011,PG-13,111,International Movies
+S1606,Movie,Title_606,Unknown,Spain,2024,TV-PG,148,Dramas
+S1607,Movie,Title_607,Director A,India,2020,PG-13,100,Horror
+S1608,Movie,Title_608,Director B,Spain,2018,TV-MA,90,Comedies
+S1609,Movie,Title_609,Unknown,South Korea,2021,PG-13,144,Horror
+S1610,Movie,Title_610,Unknown,India,2010,TV-MA,143,Documentaries
+S1611,TV Show,Title_611,Unknown,South Korea,2024,TV-PG,162,Comedies
+S1612,Movie,Title_612,Director B,India,2018,PG-13,81,Documentaries
+S1613,Movie,Title_613,Unknown,United Kingdom,2024,PG-13,63,Comedies
+S1614,TV Show,Title_614,Director B,United States,2010,TV-PG,72,Horror
+S1615,TV Show,Title_615,Unknown,United States,2019,TV-MA,104,International Movies
+S1616,Movie,Title_616,Director B,South Korea,2022,PG-13,101,Dramas
+S1617,Movie,Title_617,Director C,United States,2019,TV-MA,173,Documentaries
+S1618,TV Show,Title_618,Director C,South Korea,2011,PG-13,108,Horror
+S1619,TV Show,Title_619,Director C,South Korea,2025,TV-14,79,International Movies
+S1620,Movie,Title_620,Director C,South Korea,2015,PG-13,175,Horror
+S1621,Movie,Title_621,Director C,United States,2015,TV-PG,136,Documentaries
+S1622,Movie,Title_622,Unknown,South Korea,2010,TV-PG,140,Dramas
+S1623,Movie,Title_623,Unknown,United States,2016,TV-MA,113,Horror
+S1624,Movie,Title_624,Unknown,South Korea,2017,PG-13,95,Comedies
+S1625,Movie,Title_625,Director B,Spain,2011,TV-MA,156,International Movies
+S1626,Movie,Title_626,Director B,South Korea,2017,TV-MA,60,Horror
+S1627,TV Show,Title_627,Director B,India,2018,TV-14,74,International Movies
+S1628,Movie,Title_628,Director B,South Korea,2015,TV-14,136,Comedies
+S1629,Movie,Title_629,Director C,United Kingdom,2014,TV-PG,76,Dramas
+S1630,TV Show,Title_630,Director C,South Korea,2021,TV-MA,83,Dramas
+S1631,TV Show,Title_631,Director C,India,2018,TV-PG,117,Comedies
+S1632,Movie,Title_632,Director A,India,2025,PG-13,131,International Movies
+S1633,Movie,Title_633,Unknown,United States,2022,TV-MA,173,Horror
+S1634,Movie,Title_634,Director B,Spain,2021,TV-MA,150,Comedies
+S1635,Movie,Title_635,Director B,South Korea,2020,PG-13,168,Documentaries
+S1636,Movie,Title_636,Director C,United States,2018,PG-13,82,International Movies
+S1637,Movie,Title_637,Director B,Spain,2010,TV-PG,105,Dramas
+S1638,Movie,Title_638,Director B,South Korea,2020,TV-PG,131,Comedies
+S1639,Movie,Title_639,Unknown,United Kingdom,2012,PG-13,67,Dramas
+S1640,Movie,Title_640,Director C,South Korea,2018,TV-PG,118,International Movies
+S1641,Movie,Title_641,Unknown,India,2020,PG-13,149,Dramas
+S1642,Movie,Title_642,Director A,India,2011,TV-MA,170,Comedies
+S1643,Movie,Title_643,Director A,United Kingdom,2021,TV-MA,118,International Movies
+S1644,Movie,Title_644,Director A,United States,2013,TV-14,72,Documentaries
+S1645,TV Show,Title_645,Director C,Spain,2013,TV-MA,98,Comedies
+S1646,Movie,Title_646,Director B,South Korea,2011,PG-13,160,Horror
+S1647,Movie,Title_647,Director C,India,2024,TV-PG,172,Comedies
+S1648,TV Show,Title_648,Director C,United States,2012,TV-14,87,International Movies
+S1649,Movie,Title_649,Director B,United Kingdom,2022,TV-PG,148,Comedies
+S1650,Movie,Title_650,Unknown,India,2012,PG-13,120,Documentaries
+S1651,Movie,Title_651,Director A,United Kingdom,2010,TV-MA,75,Documentaries
+S1652,Movie,Title_652,Unknown,South Korea,2015,TV-14,178,Horror
+S1653,TV Show,Title_653,Director A,Spain,2025,PG-13,61,Dramas
+S1654,Movie,Title_654,Director C,India,2017,TV-14,177,International Movies
+S1655,Movie,Title_655,Director A,India,2021,TV-14,141,International Movies
+S1656,Movie,Title_656,Director C,South Korea,2012,TV-MA,76,Dramas
+S1657,Movie,Title_657,Unknown,United States,2014,PG-13,89,Documentaries
+S1658,Movie,Title_658,Director C,Spain,2010,TV-PG,162,Documentaries
+S1659,Movie,Title_659,Unknown,India,2019,TV-14,72,Comedies
+S1660,Movie,Title_660,Director B,Spain,2016,TV-14,155,Horror
+S1661,TV Show,Title_661,Director B,India,2019,TV-PG,173,Horror
+S1662,Movie,Title_662,Director B,Spain,2022,PG-13,152,Horror
+S1663,Movie,Title_663,Director C,United Kingdom,2010,TV-14,169,Comedies
+S1664,Movie,Title_664,Director B,India,2021,TV-14,153,Horror
+S1665,Movie,Title_665,Director A,Spain,2020,TV-14,141,Dramas
+S1666,Movie,Title_666,Unknown,United States,2018,PG-13,72,Comedies
+S1667,Movie,Title_667,Unknown,United Kingdom,2017,PG-13,102,Dramas
+S1668,Movie,Title_668,Director A,United Kingdom,2016,TV-PG,144,Comedies
+S1669,Movie,Title_669,Director C,United States,2019,PG-13,153,Horror
+S1670,Movie,Title_670,Director C,Spain,2024,PG-13,80,Dramas
+S1671,TV Show,Title_671,Unknown,South Korea,2016,TV-MA,171,Dramas
+S1672,Movie,Title_672,Director B,United States,2014,TV-PG,114,Dramas
+S1673,Movie,Title_673,Director C,Spain,2014,TV-14,140,Comedies
+S1674,Movie,Title_674,Director C,United States,2020,PG-13,99,International Movies
+S1675,TV Show,Title_675,Director A,United States,2022,TV-14,142,Horror
+S1676,Movie,Title_676,Director A,India,2014,TV-14,175,Dramas
+S1677,Movie,Title_677,Director B,Spain,2010,TV-MA,74,International Movies
+S1678,TV Show,Title_678,Director C,South Korea,2017,PG-13,132,Horror
+S1679,TV Show,Title_679,Director C,India,2021,TV-PG,111,Horror
+S1680,TV Show,Title_680,Director A,United States,2020,PG-13,133,Dramas
+S1681,Movie,Title_681,Director C,United States,2010,TV-14,167,Dramas
+S1682,Movie,Title_682,Unknown,United States,2013,TV-PG,154,Comedies
+S1683,Movie,Title_683,Director A,Spain,2024,PG-13,112,International Movies
+S1684,TV Show,Title_684,Director B,Spain,2018,TV-14,146,International Movies
+S1685,Movie,Title_685,Director A,India,2023,TV-14,111,Dramas
+S1686,Movie,Title_686,Director C,South Korea,2018,TV-MA,89,Horror
+S1687,Movie,Title_687,Director B,India,2014,TV-MA,92,Dramas
+S1688,TV Show,Title_688,Director A,United Kingdom,2013,TV-MA,116,Horror
+S1689,Movie,Title_689,Unknown,United States,2012,TV-14,111,Horror
+S1690,Movie,Title_690,Unknown,United States,2012,PG-13,68,Dramas
+S1691,Movie,Title_691,Director A,United States,2021,TV-MA,113,Documentaries
+S1692,Movie,Title_692,Unknown,India,2014,PG-13,170,International Movies
+S1693,Movie,Title_693,Unknown,India,2019,TV-MA,60,Horror
+S1694,Movie,Title_694,Unknown,United States,2010,TV-PG,103,Horror
+S1695,Movie,Title_695,Director B,India,2014,TV-PG,158,Documentaries
+S1696,Movie,Title_696,Unknown,Spain,2015,TV-MA,134,Comedies
+S1697,Movie,Title_697,Unknown,Spain,2025,TV-14,157,Documentaries
+S1698,Movie,Title_698,Unknown,India,2016,TV-MA,139,Documentaries
+S1699,Movie,Title_699,Director B,United States,2021,TV-MA,68,Horror
+S1700,Movie,Title_700,Director A,India,2025,TV-14,91,International Movies
+S1701,Movie,Title_701,Director C,India,2018,TV-PG,74,Documentaries
+S1702,Movie,Title_702,Unknown,India,2012,PG-13,71,Comedies
+S1703,Movie,Title_703,Director A,United Kingdom,2024,TV-MA,156,Dramas
+S1704,Movie,Title_704,Unknown,Spain,2025,TV-14,168,Documentaries
+S1705,TV Show,Title_705,Director B,South Korea,2011,TV-MA,137,Documentaries
+S1706,Movie,Title_706,Director A,South Korea,2025,TV-14,116,Comedies
+S1707,TV Show,Title_707,Director B,United Kingdom,2023,PG-13,67,International Movies
+S1708,Movie,Title_708,Unknown,India,2012,PG-13,131,Documentaries
+S1709,Movie,Title_709,Unknown,United Kingdom,2021,TV-PG,86,Documentaries
+S1710,TV Show,Title_710,Director B,United Kingdom,2018,TV-14,121,International Movies
+S1711,Movie,Title_711,Director C,United States,2021,TV-14,71,Comedies
+S1712,Movie,Title_712,Director B,Spain,2016,TV-PG,124,Documentaries
+S1713,Movie,Title_713,Unknown,South Korea,2018,TV-PG,166,International Movies
+S1714,Movie,Title_714,Director B,India,2022,TV-14,163,Documentaries
+S1715,TV Show,Title_715,Director C,South Korea,2011,TV-PG,101,Dramas
+S1716,TV Show,Title_716,Director B,South Korea,2014,PG-13,121,Horror
+S1717,TV Show,Title_717,Director C,Spain,2022,TV-MA,174,Dramas
+S1718,Movie,Title_718,Director C,South Korea,2013,PG-13,70,Documentaries
+S1719,TV Show,Title_719,Director B,South Korea,2024,TV-PG,162,Comedies
+S1720,TV Show,Title_720,Director B,United Kingdom,2011,TV-14,102,Horror
+S1721,Movie,Title_721,Director A,Spain,2025,TV-14,154,Dramas
+S1722,Movie,Title_722,Unknown,United States,2018,PG-13,76,International Movies
+S1723,TV Show,Title_723,Director C,India,2018,TV-14,156,Comedies
+S1724,Movie,Title_724,Director A,South Korea,2015,TV-PG,91,Dramas
+S1725,TV Show,Title_725,Director B,India,2020,PG-13,152,International Movies
+S1726,Movie,Title_726,Unknown,United States,2015,TV-14,144,Documentaries
+S1727,TV Show,Title_727,Director A,India,2017,TV-MA,144,International Movies
+S1728,Movie,Title_728,Director C,United States,2015,TV-MA,99,Dramas
+S1729,Movie,Title_729,Director A,United Kingdom,2010,TV-PG,82,Dramas
+S1730,Movie,Title_730,Director C,South Korea,2013,TV-14,115,Documentaries
+S1731,TV Show,Title_731,Director B,United States,2022,TV-PG,65,International Movies
+S1732,Movie,Title_732,Unknown,India,2016,PG-13,145,International Movies
+S1733,Movie,Title_733,Unknown,South Korea,2022,TV-MA,109,Documentaries
+S1734,Movie,Title_734,Unknown,United Kingdom,2022,PG-13,161,International Movies
+S1735,TV Show,Title_735,Director B,South Korea,2011,TV-14,96,Documentaries
+S1736,Movie,Title_736,Director C,United States,2018,TV-PG,168,Comedies
+S1737,TV Show,Title_737,Director B,United Kingdom,2017,TV-PG,123,Dramas
+S1738,Movie,Title_738,Unknown,India,2017,TV-PG,174,Comedies
+S1739,Movie,Title_739,Director B,United Kingdom,2016,PG-13,113,Horror
+S1740,Movie,Title_740,Director B,United Kingdom,2013,TV-MA,131,Horror
+S1741,Movie,Title_741,Director B,Spain,2011,PG-13,164,Horror
+S1742,TV Show,Title_742,Director C,United Kingdom,2012,PG-13,108,Documentaries
+S1743,Movie,Title_743,Director A,United Kingdom,2021,TV-14,158,International Movies
+S1744,Movie,Title_744,Director A,South Korea,2015,TV-14,174,Comedies
+S1745,TV Show,Title_745,Director B,India,2021,TV-14,70,Comedies
+S1746,Movie,Title_746,Director A,South Korea,2021,TV-MA,147,Comedies
+S1747,Movie,Title_747,Director A,South Korea,2014,TV-MA,108,Comedies
+S1748,TV Show,Title_748,Director B,United States,2021,TV-14,80,Horror
+S1749,Movie,Title_749,Director B,South Korea,2017,TV-14,174,Comedies
+S1750,Movie,Title_750,Unknown,Spain,2015,TV-MA,125,International Movies
+S1751,TV Show,Title_751,Director A,Spain,2015,TV-PG,122,Horror
+S1752,Movie,Title_752,Director C,United States,2010,TV-MA,163,Comedies
+S1753,Movie,Title_753,Director B,India,2013,TV-MA,142,Documentaries
+S1754,Movie,Title_754,Unknown,India,2014,TV-MA,162,Dramas
+S1755,TV Show,Title_755,Director C,South Korea,2021,TV-14,87,Dramas
+S1756,Movie,Title_756,Director A,South Korea,2020,TV-PG,76,Dramas
+S1757,Movie,Title_757,Unknown,South Korea,2012,TV-MA,65,Horror
+S1758,TV Show,Title_758,Director B,India,2022,TV-14,78,Comedies
+S1759,TV Show,Title_759,Director C,United Kingdom,2018,PG-13,115,Horror
+S1760,Movie,Title_760,Director B,Spain,2010,PG-13,161,International Movies
+S1761,Movie,Title_761,Director A,United Kingdom,2015,TV-MA,87,Documentaries
+S1762,Movie,Title_762,Director C,United Kingdom,2015,PG-13,125,Documentaries
+S1763,TV Show,Title_763,Director A,India,2019,TV-PG,97,Dramas
+S1764,Movie,Title_764,Director A,United Kingdom,2014,PG-13,178,Dramas
+S1765,Movie,Title_765,Unknown,United States,2021,PG-13,96,Dramas
+S1766,TV Show,Title_766,Director B,South Korea,2024,TV-PG,174,Comedies
+S1767,TV Show,Title_767,Director C,United States,2014,TV-MA,175,International Movies
+S1768,Movie,Title_768,Director A,Spain,2019,TV-MA,127,International Movies
+S1769,TV Show,Title_769,Director A,South Korea,2023,TV-PG,145,International Movies
+S1770,Movie,Title_770,Director C,United Kingdom,2022,TV-PG,149,International Movies
+S1771,TV Show,Title_771,Director A,Spain,2014,TV-PG,108,Dramas
+S1772,Movie,Title_772,Unknown,South Korea,2015,PG-13,102,Documentaries
+S1773,Movie,Title_773,Unknown,United Kingdom,2017,TV-PG,95,Dramas
+S1774,TV Show,Title_774,Unknown,United States,2011,TV-14,117,International Movies
+S1775,Movie,Title_775,Unknown,South Korea,2015,PG-13,72,Dramas
+S1776,Movie,Title_776,Director A,United Kingdom,2010,TV-MA,111,International Movies
+S1777,TV Show,Title_777,Director C,United States,2013,TV-MA,117,Horror
+S1778,TV Show,Title_778,Director C,Spain,2023,TV-MA,91,Documentaries
+S1779,Movie,Title_779,Director C,Spain,2019,PG-13,140,Horror
+S1780,Movie,Title_780,Director C,Spain,2012,TV-14,164,Comedies
+S1781,Movie,Title_781,Director B,Spain,2018,TV-PG,159,Dramas
+S1782,Movie,Title_782,Director C,India,2012,TV-PG,178,Comedies
+S1783,Movie,Title_783,Director B,South Korea,2024,TV-MA,119,Dramas
+S1784,Movie,Title_784,Director B,South Korea,2015,TV-MA,169,Horror
+S1785,TV Show,Title_785,Unknown,India,2010,PG-13,142,International Movies
+S1786,Movie,Title_786,Director B,United Kingdom,2021,TV-14,117,International Movies
+S1787,Movie,Title_787,Director A,United Kingdom,2015,TV-PG,158,Dramas
+S1788,Movie,Title_788,Director B,Spain,2013,PG-13,169,International Movies
+S1789,TV Show,Title_789,Unknown,United States,2017,TV-PG,163,Horror
+S1790,Movie,Title_790,Director B,United Kingdom,2022,TV-MA,115,International Movies
+S1791,Movie,Title_791,Director A,United States,2020,TV-PG,87,Horror
+S1792,Movie,Title_792,Director A,South Korea,2018,TV-14,60,Comedies
+S1793,Movie,Title_793,Director A,United States,2013,TV-14,101,Horror
+S1794,Movie,Title_794,Unknown,South Korea,2019,TV-MA,141,Documentaries
+S1795,TV Show,Title_795,Unknown,India,2021,TV-14,107,Documentaries
+S1796,TV Show,Title_796,Director C,India,2019,TV-14,99,Documentaries
+S1797,Movie,Title_797,Unknown,Spain,2015,PG-13,156,Dramas
+S1798,Movie,Title_798,Director A,United Kingdom,2010,TV-PG,122,Dramas
+S1799,TV Show,Title_799,Director A,Spain,2013,TV-MA,135,Dramas
+S1800,TV Show,Title_800,Unknown,South Korea,2016,TV-MA,131,Horror
+S1801,Movie,Title_801,Director B,Spain,2021,TV-MA,147,Dramas
+S1802,Movie,Title_802,Unknown,United States,2025,TV-MA,139,Comedies
+S1803,Movie,Title_803,Unknown,South Korea,2024,TV-MA,173,Documentaries
+S1804,Movie,Title_804,Director A,India,2010,TV-14,63,Horror
+S1805,TV Show,Title_805,Director C,United Kingdom,2017,PG-13,97,Documentaries
+S1806,TV Show,Title_806,Director A,South Korea,2021,TV-MA,167,Dramas
+S1807,TV Show,Title_807,Director C,South Korea,2019,PG-13,86,Horror
+S1808,Movie,Title_808,Director A,United States,2021,PG-13,68,International Movies
+S1809,Movie,Title_809,Unknown,United Kingdom,2020,TV-14,170,Comedies
+S1810,TV Show,Title_810,Director A,India,2015,TV-MA,75,Dramas
+S1811,TV Show,Title_811,Director A,South Korea,2014,TV-14,115,Dramas
+S1812,Movie,Title_812,Director A,South Korea,2019,TV-MA,135,Comedies
+S1813,TV Show,Title_813,Unknown,United States,2020,TV-14,90,Comedies
+S1814,TV Show,Title_814,Unknown,Spain,2024,PG-13,147,International Movies
+S1815,Movie,Title_815,Unknown,India,2023,TV-MA,178,Dramas
+S1816,Movie,Title_816,Unknown,United Kingdom,2018,TV-PG,73,Dramas
+S1817,Movie,Title_817,Director C,South Korea,2011,PG-13,168,Documentaries
+S1818,Movie,Title_818,Director C,South Korea,2014,TV-PG,84,Horror
+S1819,Movie,Title_819,Director B,India,2015,PG-13,93,Horror
+S1820,TV Show,Title_820,Unknown,Spain,2016,TV-14,126,Documentaries
+S1821,Movie,Title_821,Director C,South Korea,2025,TV-MA,83,Horror
+S1822,Movie,Title_822,Director A,India,2025,PG-13,177,Comedies
+S1823,Movie,Title_823,Unknown,United States,2014,TV-14,165,Horror
+S1824,Movie,Title_824,Director B,Spain,2018,TV-MA,132,Horror
+S1825,TV Show,Title_825,Director B,United Kingdom,2010,TV-MA,85,Documentaries
+S1826,Movie,Title_826,Director B,South Korea,2016,PG-13,79,International Movies
+S1827,Movie,Title_827,Director A,India,2019,TV-MA,123,Horror
+S1828,TV Show,Title_828,Director C,United States,2016,PG-13,163,Horror
+S1829,Movie,Title_829,Director A,United Kingdom,2013,TV-MA,69,International Movies
+S1830,Movie,Title_830,Unknown,India,2018,TV-PG,142,Documentaries
+S1831,Movie,Title_831,Director B,India,2023,TV-14,126,International Movies
+S1832,Movie,Title_832,Director A,United Kingdom,2021,TV-PG,83,Documentaries
+S1833,Movie,Title_833,Director A,United States,2025,PG-13,64,Comedies
+S1834,Movie,Title_834,Director C,United States,2025,TV-PG,126,Documentaries
+S1835,Movie,Title_835,Director C,Spain,2020,PG-13,117,Comedies
+S1836,TV Show,Title_836,Director B,South Korea,2014,TV-MA,86,Comedies
+S1837,Movie,Title_837,Director A,United Kingdom,2013,TV-MA,139,Documentaries
+S1838,Movie,Title_838,Director A,United Kingdom,2022,PG-13,172,Dramas
+S1839,Movie,Title_839,Director C,United Kingdom,2016,TV-PG,74,Documentaries
+S1840,Movie,Title_840,Director A,United States,2013,TV-MA,94,Horror
+S1841,Movie,Title_841,Director A,South Korea,2024,TV-14,135,Horror
+S1842,Movie,Title_842,Director A,Spain,2012,TV-MA,164,Dramas
+S1843,TV Show,Title_843,Director C,India,2018,TV-14,112,Comedies
+S1844,Movie,Title_844,Director B,India,2025,TV-PG,103,Dramas
+S1845,Movie,Title_845,Unknown,United Kingdom,2020,TV-14,85,Horror
+S1846,Movie,Title_846,Director B,South Korea,2017,TV-14,106,Dramas
+S1847,TV Show,Title_847,Unknown,United States,2010,TV-14,93,Documentaries
+S1848,Movie,Title_848,Director A,South Korea,2016,TV-14,146,Dramas
+S1849,Movie,Title_849,Director B,South Korea,2018,TV-MA,154,Comedies
+S1850,Movie,Title_850,Unknown,United States,2017,TV-14,109,Documentaries
+S1851,TV Show,Title_851,Director C,United Kingdom,2017,TV-MA,143,International Movies
+S1852,Movie,Title_852,Director C,South Korea,2022,TV-14,71,Horror
+S1853,TV Show,Title_853,Director B,India,2015,PG-13,146,Horror
+S1854,Movie,Title_854,Director B,United States,2020,TV-PG,63,Dramas
+S1855,Movie,Title_855,Director A,Spain,2013,TV-14,146,Documentaries
+S1856,Movie,Title_856,Director B,United Kingdom,2017,PG-13,107,International Movies
+S1857,Movie,Title_857,Director A,United States,2012,TV-14,114,Documentaries
+S1858,Movie,Title_858,Director A,Spain,2022,TV-14,171,Horror
+S1859,Movie,Title_859,Director C,Spain,2018,TV-14,60,Documentaries
+S1860,TV Show,Title_860,Director C,South Korea,2022,PG-13,177,International Movies
+S1861,Movie,Title_861,Unknown,South Korea,2011,TV-PG,148,Dramas
+S1862,Movie,Title_862,Director C,South Korea,2011,PG-13,125,Comedies
+S1863,Movie,Title_863,Director C,United States,2021,TV-PG,89,Documentaries
+S1864,Movie,Title_864,Director B,United States,2022,TV-14,62,Comedies
+S1865,Movie,Title_865,Director C,United Kingdom,2024,TV-MA,80,Horror
+S1866,Movie,Title_866,Unknown,South Korea,2021,TV-14,148,Dramas
+S1867,Movie,Title_867,Director B,Spain,2016,TV-PG,143,Dramas
+S1868,TV Show,Title_868,Unknown,India,2021,PG-13,108,Documentaries
+S1869,TV Show,Title_869,Director C,United Kingdom,2019,TV-14,175,Dramas
+S1870,Movie,Title_870,Unknown,United States,2013,PG-13,145,Documentaries
+S1871,Movie,Title_871,Director B,United Kingdom,2019,PG-13,144,Documentaries
+S1872,Movie,Title_872,Director A,United Kingdom,2017,PG-13,121,Comedies
+S1873,Movie,Title_873,Unknown,United Kingdom,2018,TV-14,156,Dramas
+S1874,Movie,Title_874,Unknown,United Kingdom,2016,PG-13,175,Documentaries
+S1875,Movie,Title_875,Director B,India,2014,PG-13,97,Comedies
+S1876,TV Show,Title_876,Director B,South Korea,2017,TV-14,74,International Movies
+S1877,Movie,Title_877,Unknown,Spain,2025,PG-13,169,Comedies
+S1878,Movie,Title_878,Director C,United Kingdom,2013,TV-14,111,Comedies
+S1879,Movie,Title_879,Unknown,United Kingdom,2011,TV-PG,138,Documentaries
+S1880,Movie,Title_880,Director B,United Kingdom,2020,TV-PG,105,Horror
+S1881,Movie,Title_881,Director A,South Korea,2024,TV-PG,84,Horror
+S1882,Movie,Title_882,Director A,United States,2025,PG-13,80,Horror
+S1883,Movie,Title_883,Director C,United States,2021,TV-MA,147,Comedies
+S1884,TV Show,Title_884,Unknown,India,2015,TV-MA,64,Documentaries
+S1885,Movie,Title_885,Director A,United States,2018,PG-13,129,Dramas
+S1886,Movie,Title_886,Unknown,United Kingdom,2010,TV-MA,172,Comedies
+S1887,Movie,Title_887,Director B,United Kingdom,2020,TV-14,166,Comedies
+S1888,Movie,Title_888,Director A,United Kingdom,2019,TV-MA,171,Documentaries
+S1889,Movie,Title_889,Director C,India,2021,PG-13,167,International Movies
+S1890,TV Show,Title_890,Director B,United Kingdom,2016,PG-13,106,Comedies
+S1891,TV Show,Title_891,Director C,United States,2019,TV-14,146,International Movies
+S1892,TV Show,Title_892,Director B,South Korea,2018,TV-PG,127,International Movies
+S1893,Movie,Title_893,Director A,South Korea,2019,PG-13,150,Horror
+S1894,Movie,Title_894,Director C,Spain,2018,TV-14,77,Documentaries
+S1895,Movie,Title_895,Director C,United States,2019,TV-MA,80,International Movies
+S1896,Movie,Title_896,Director B,United Kingdom,2020,TV-MA,151,Documentaries
+S1897,TV Show,Title_897,Director C,South Korea,2022,TV-14,158,Horror
+S1898,Movie,Title_898,Director B,United States,2012,TV-14,145,Documentaries
+S1899,Movie,Title_899,Director B,South Korea,2020,PG-13,163,Comedies
+S1900,Movie,Title_900,Director B,United Kingdom,2022,TV-MA,82,International Movies
+S1901,Movie,Title_901,Director B,South Korea,2014,TV-14,123,Documentaries
+S1902,Movie,Title_902,Director A,Spain,2017,TV-MA,126,Dramas
+S1903,Movie,Title_903,Director B,Spain,2017,TV-14,99,Documentaries
+S1904,Movie,Title_904,Unknown,South Korea,2013,TV-MA,173,International Movies
+S1905,TV Show,Title_905,Director C,United States,2024,TV-PG,69,Horror
+S1906,TV Show,Title_906,Unknown,United States,2024,PG-13,148,Horror
+S1907,Movie,Title_907,Director A,United States,2021,TV-MA,111,International Movies
+S1908,Movie,Title_908,Unknown,South Korea,2020,TV-PG,172,Comedies
+S1909,Movie,Title_909,Director C,United States,2020,TV-MA,131,Comedies
+S1910,Movie,Title_910,Unknown,United Kingdom,2010,TV-MA,178,Horror
+S1911,Movie,Title_911,Director A,Spain,2010,TV-PG,134,Horror
+S1912,Movie,Title_912,Director B,United Kingdom,2024,TV-MA,120,International Movies
+S1913,Movie,Title_913,Unknown,United States,2013,TV-MA,123,Comedies
+S1914,Movie,Title_914,Director A,United Kingdom,2015,PG-13,64,Horror
+S1915,Movie,Title_915,Director A,United States,2017,TV-PG,168,Comedies
+S1916,Movie,Title_916,Director C,South Korea,2015,TV-PG,112,Horror
+S1917,TV Show,Title_917,Director C,United Kingdom,2021,TV-14,114,Documentaries
+S1918,TV Show,Title_918,Unknown,South Korea,2018,TV-MA,96,Dramas
+S1919,Movie,Title_919,Director B,South Korea,2024,PG-13,115,Documentaries
+S1920,TV Show,Title_920,Director A,India,2024,TV-MA,118,Horror
+S1921,Movie,Title_921,Unknown,United States,2018,TV-MA,168,Dramas
+S1922,TV Show,Title_922,Director A,Spain,2023,TV-14,161,Dramas
+S1923,TV Show,Title_923,Director A,United States,2011,TV-MA,152,Horror
+S1924,Movie,Title_924,Director B,Spain,2019,PG-13,128,Horror
+S1925,Movie,Title_925,Director B,United States,2010,PG-13,132,Comedies
+S1926,Movie,Title_926,Unknown,South Korea,2011,TV-14,118,Horror
+S1927,Movie,Title_927,Director B,United Kingdom,2014,TV-MA,171,International Movies
+S1928,Movie,Title_928,Director B,United Kingdom,2013,PG-13,61,Horror
+S1929,Movie,Title_929,Unknown,India,2013,TV-MA,124,International Movies
+S1930,Movie,Title_930,Director B,Spain,2018,TV-MA,163,Horror
+S1931,TV Show,Title_931,Director C,Spain,2020,TV-MA,119,Comedies
+S1932,TV Show,Title_932,Director A,Spain,2017,TV-14,110,International Movies
+S1933,Movie,Title_933,Director A,South Korea,2015,TV-MA,89,Documentaries
+S1934,Movie,Title_934,Director A,Spain,2010,PG-13,70,International Movies
+S1935,Movie,Title_935,Director A,United Kingdom,2011,TV-MA,151,Comedies
+S1936,Movie,Title_936,Unknown,South Korea,2015,PG-13,167,International Movies
+S1937,TV Show,Title_937,Director A,United States,2020,TV-MA,135,Horror
+S1938,Movie,Title_938,Director A,Spain,2011,PG-13,98,Horror
+S1939,Movie,Title_939,Director A,Spain,2024,PG-13,149,Comedies
+S1940,Movie,Title_940,Director A,United States,2025,TV-MA,136,Dramas
+S1941,Movie,Title_941,Director C,Spain,2022,TV-MA,131,Horror
+S1942,Movie,Title_942,Director A,United States,2019,PG-13,122,Documentaries
+S1943,TV Show,Title_943,Director C,South Korea,2014,TV-PG,123,Comedies
+S1944,Movie,Title_944,Unknown,United Kingdom,2023,TV-14,120,International Movies
+S1945,Movie,Title_945,Director B,United States,2014,TV-PG,113,International Movies
+S1946,Movie,Title_946,Director A,India,2015,TV-PG,151,Documentaries
+S1947,TV Show,Title_947,Director B,United States,2015,TV-MA,153,Horror
+S1948,TV Show,Title_948,Director B,Spain,2023,TV-14,132,Comedies
+S1949,Movie,Title_949,Unknown,South Korea,2015,TV-PG,162,Documentaries
+S1950,Movie,Title_950,Director B,South Korea,2023,TV-MA,154,Horror
+S1951,Movie,Title_951,Director C,United States,2011,TV-PG,117,Comedies
+S1952,Movie,Title_952,Director B,United Kingdom,2023,TV-PG,144,International Movies
+S1953,TV Show,Title_953,Director B,India,2019,TV-MA,115,Comedies
+S1954,Movie,Title_954,Director B,South Korea,2023,TV-MA,170,Dramas
+S1955,Movie,Title_955,Director A,Spain,2022,TV-MA,93,Comedies
+S1956,Movie,Title_956,Director A,Spain,2024,TV-14,178,Dramas
+S1957,Movie,Title_957,Director C,United Kingdom,2023,TV-PG,90,Comedies
+S1958,Movie,Title_958,Director C,South Korea,2012,TV-MA,111,Dramas
+S1959,TV Show,Title_959,Director A,United States,2023,PG-13,148,International Movies
+S1960,Movie,Title_960,Director C,Spain,2015,TV-PG,135,Horror
+S1961,Movie,Title_961,Director A,United Kingdom,2022,PG-13,60,Dramas
+S1962,Movie,Title_962,Unknown,South Korea,2017,TV-14,114,Dramas
+S1963,Movie,Title_963,Director B,South Korea,2021,TV-MA,81,International Movies
+S1964,Movie,Title_964,Director B,South Korea,2022,PG-13,99,Dramas
+S1965,Movie,Title_965,Director C,South Korea,2020,TV-14,160,Documentaries
+S1966,TV Show,Title_966,Director A,South Korea,2021,TV-MA,170,International Movies
+S1967,Movie,Title_967,Director A,Spain,2010,PG-13,60,Documentaries
+S1968,Movie,Title_968,Director C,United Kingdom,2010,PG-13,124,International Movies
+S1969,Movie,Title_969,Director A,South Korea,2025,TV-14,122,Dramas
+S1970,Movie,Title_970,Unknown,India,2020,TV-MA,165,Documentaries
+S1971,TV Show,Title_971,Director B,India,2022,TV-MA,113,Dramas
+S1972,TV Show,Title_972,Director C,United Kingdom,2011,PG-13,101,International Movies
+S1973,Movie,Title_973,Director C,United States,2020,PG-13,80,Dramas
+S1974,Movie,Title_974,Director A,United States,2024,PG-13,138,Documentaries
+S1975,Movie,Title_975,Director C,United States,2021,TV-MA,140,Documentaries
+S1976,Movie,Title_976,Unknown,India,2021,TV-14,81,Dramas
+S1977,Movie,Title_977,Director A,United States,2015,TV-14,97,Comedies
+S1978,Movie,Title_978,Director A,Spain,2018,TV-MA,158,International Movies
+S1979,Movie,Title_979,Director A,South Korea,2025,TV-PG,168,International Movies
+S1980,Movie,Title_980,Director A,India,2013,TV-14,139,Dramas
+S1981,TV Show,Title_981,Unknown,United Kingdom,2012,PG-13,67,Comedies
+S1982,Movie,Title_982,Director A,United Kingdom,2021,TV-PG,121,Documentaries
+S1983,Movie,Title_983,Director C,South Korea,2025,TV-PG,106,Horror
+S1984,TV Show,Title_984,Unknown,India,2017,TV-14,76,Horror
+S1985,Movie,Title_985,Director B,United States,2025,TV-PG,76,Dramas
+S1986,Movie,Title_986,Director B,United States,2020,TV-PG,177,Comedies
+S1987,Movie,Title_987,Director C,Spain,2019,TV-14,149,Comedies
+S1988,Movie,Title_988,Director C,Spain,2023,TV-14,72,International Movies
+S1989,TV Show,Title_989,Unknown,United States,2018,TV-PG,76,Documentaries
+S1990,TV Show,Title_990,Director B,United Kingdom,2021,PG-13,97,Comedies
+S1991,Movie,Title_991,Director B,United Kingdom,2020,TV-MA,140,Horror
+S1992,Movie,Title_992,Director B,Spain,2014,TV-PG,171,Documentaries
+S1993,Movie,Title_993,Director B,South Korea,2018,TV-PG,137,Documentaries
+S1994,Movie,Title_994,Director B,United States,2011,PG-13,104,Dramas
+S1995,Movie,Title_995,Director A,Spain,2012,TV-PG,65,Comedies
+S1996,TV Show,Title_996,Director C,Spain,2016,TV-PG,94,Dramas
+S1997,Movie,Title_997,Director A,United States,2016,TV-MA,169,Comedies
+S1998,TV Show,Title_998,Director B,United States,2015,TV-MA,73,International Movies
+S1999,Movie,Title_999,Unknown,United Kingdom,2015,TV-MA,170,Dramas
